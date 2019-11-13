@@ -1,0 +1,7 @@
+<xls>
+    <area ref="Template!A1:A2">
+        <each items="names" var="name" ref="Template!A1:A2" dir="RIGHT">
+            <area ref="Template!A1:A2"></area>
+        </each>
+    </area>
+</xls>
