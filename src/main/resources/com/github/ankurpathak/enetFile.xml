@@ -1,0 +1,7 @@
+<xls>
+    <area ref="Template!A1:AC2">
+        <each items="aEnetFile" var="item" ref="Template!A2:AC2" dir="DOWN">
+            <area ref="Template!A2:AC2"></area>
+        </each>
+    </area>
+</xls>
