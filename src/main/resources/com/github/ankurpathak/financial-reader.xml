@@ -1,0 +1,12 @@
+<workbook>
+    <worksheet name="Template">
+        <section startRow="0" endRow="1" >
+             <mapping col="1" row="2">item.firstYear</mapping>
+    <mapping col="2" row="2">item.secondYear</mapping>
+    <mapping col="3" row="2">item.thirdYear</mapping>
+    <mapping col="4" row="2">item.fourthYear</mapping>
+    <mapping col="5" row="2">item.fifthYear</mapping>
+        </section>
+
+    </worksheet>
+</workbook>
